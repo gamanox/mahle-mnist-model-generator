@@ -1,4 +1,4 @@
-# Mahle PNG-to-MNIST model
+# Mahle PNG-to-MNIST model by WE THE FORCE
 
 Super simple method for converting a set of jpg and/or png images (or a mix) into mnist binary format for training for Mahle Project(depends on imagemagick and python 2.7 PIL)
 
